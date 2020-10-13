@@ -1,4 +1,4 @@
-# Statistics-with-R-Specialization
+# Statistics with R Specialization
 Duke University Specialization - Master Statistics with R. Statistical mastery of data analysis including inference, modeling, and Bayesian approaches.
 
 Course 01 - Introduction to Probability and Data with R
