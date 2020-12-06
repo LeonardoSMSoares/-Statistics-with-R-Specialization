@@ -8,5 +8,3 @@ Course 02 - Inferential Statistics
 Course 03 - Linear Regression and Modeling
 
 Course 04 - Bayesian Statistics
-
-Course 05 - Statistics with R Capstone
